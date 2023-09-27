@@ -1,32 +1,62 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        int s =0;
-        int e = nums.size() - 1;
-        bool first = false;
+    int firstOcc(vector<int>& nums, int target){
+        int n = nums.size();
+        int start = 0;
+        int end = n-1;
+        int ans = -1;
 
-        while(s <= e){
-            if(nums[s] == target){
-                first = true;
-                break;
+        int mid = start + (end-start)/2;
+        while(start <= end){
+            if(nums[mid] == target){
+                ans = mid;
+                end = mid-1;
             }
-            else{
-                s++;
+
+            else if(nums[mid] < target){
+                start = mid+1;
             }
+
+            else if(nums[mid] > target){
+                end = mid-1;
+            }
+            mid = start + (end-start)/2;
         }
-        bool last = false;
-        while(s <= e){
-            if(nums[e] == target){
-                last = true;
-                break;
+        return ans;
+    }
+            
+    int LastOcc(vector<int>& nums, int target){
+        int n = nums.size();
+        int start = 0;
+        int end = n-1;
+        int ans = -1;
+
+        int mid = start + (end-start)/2;
+        while(start <= end){
+            if(nums[mid] == target){
+                ans = mid;
+                start = mid+1;
             }
-            else{
-                e--;
+
+            else if(nums[mid] < target){
+                start = mid+1;
             }
+
+            else if(nums[mid] > target){
+                end = mid-1;
+            }
+            mid = start + (end-start)/2;
         }
-        if(first,last){
-            return {s,e};
-        }
-        else return {-1,-1};
+        return ans;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        vector<int> result;
+        int firstIndex = firstOcc(nums,target);
+        int lastIndex = LastOcc(nums,target);
+
+        result.push_back(firstIndex);
+        result.push_back(lastIndex);
+        
+        return result;
     }
 };
