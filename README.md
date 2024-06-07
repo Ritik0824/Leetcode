@@ -7,6 +7,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | ------- |
 | [0055-jump-game](https://github.com/Ritik0824/Leetcode/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/Ritik0824/Leetcode/tree/master/0200-number-of-islands) |
+| [0518-coin-change-ii](https://github.com/Ritik0824/Leetcode/tree/master/0518-coin-change-ii) |
 | [0648-replace-words](https://github.com/Ritik0824/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ritik0824/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -32,6 +33,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ritik0824/Leetcode/tree/master/0055-jump-game) |
+| [0518-coin-change-ii](https://github.com/Ritik0824/Leetcode/tree/master/0518-coin-change-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ritik0824/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 # Greedy
 |  |
