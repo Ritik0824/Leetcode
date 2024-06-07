@@ -1,24 +1,22 @@
 class Solution {
 public:
-    int func(int ind, int prev,vector<vector<int>>& pairs,vector<vector<int>>& dp){
-        //Base Case
-        if(ind >= pairs.size()) return 0;
-        if(dp[ind][prev+1] != -1) return dp[ind][prev+1];
-
-        //Transition
-        
-        int len = func(ind+1,prev,pairs,dp);
-        if(prev == -1 || pairs[ind][0] > pairs[prev][1]){
-            len = max(len,1+func(ind+1,ind,pairs,dp));
-        }
-    
-        return dp[ind][prev+1] = len;
-    }
-
-
     int findLongestChain(vector<vector<int>>& pairs) {
-        sort(pairs.begin(),pairs.end());
-        vector<vector<int>> dp(pairs.size()+1,vector<int>(pairs.size()+1,-1));
-        return func(0,-1,pairs,dp);
+        // Sort the pairs based on their second element
+        sort(pairs.begin(), pairs.end(), [](const vector<int>& a, const vector<int>& b) {
+            return a[1] < b[1];
+        });
+
+        int n = pairs.size();
+        vector<int> dp(n, 1); // dp[i] will be the maximum chain length ending with pairs[i]
+
+        for (int i = 1; i < n; ++i) {
+            for (int j = 0; j < i; ++j) {
+                if (pairs[i][0] > pairs[j][1]) {
+                    dp[i] = max(dp[i], dp[j] + 1);
+                }
+            }
+        }
+
+        return *max_element(dp.begin(), dp.end());
     }
 };
