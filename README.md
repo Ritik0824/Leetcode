@@ -14,6 +14,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ritik0824/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1044-find-common-characters](https://github.com/Ritik0824/Leetcode/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Ritik0824/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 # Depth-First Search
 |  |
@@ -64,6 +65,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
 # Trie
 |  |
 | ------- |
@@ -76,3 +78,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Ritik0824/Leetcode/tree/master/0523-continuous-subarray-sum) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
