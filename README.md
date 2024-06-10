@@ -7,6 +7,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | ------- |
 | [0055-jump-game](https://github.com/Ritik0824/Leetcode/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/Ritik0824/Leetcode/tree/master/0200-number-of-islands) |
+| [0416-partition-equal-subset-sum](https://github.com/Ritik0824/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Ritik0824/Leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ritik0824/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -36,6 +37,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ritik0824/Leetcode/tree/master/0055-jump-game) |
+| [0416-partition-equal-subset-sum](https://github.com/Ritik0824/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Ritik0824/Leetcode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Ritik0824/Leetcode/tree/master/0647-palindromic-substrings) |
