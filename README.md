@@ -38,6 +38,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [0055-jump-game](https://github.com/Ritik0824/Leetcode/tree/master/0055-jump-game) |
 | [0518-coin-change-ii](https://github.com/Ritik0824/Leetcode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/Ritik0824/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ritik0824/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 # Greedy
 |  |
@@ -58,6 +59,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ritik0824/Leetcode/tree/master/0409-longest-palindrome) |
+| [0647-palindromic-substrings](https://github.com/Ritik0824/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Ritik0824/Leetcode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/Ritik0824/Leetcode/tree/master/1044-find-common-characters) |
 # Sorting
@@ -82,3 +84,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
+# Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Ritik0824/Leetcode/tree/master/0647-palindromic-substrings) |
