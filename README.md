@@ -6,6 +6,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ritik0824/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Ritik0824/Leetcode/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Ritik0824/Leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/Ritik0824/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Ritik0824/Leetcode/tree/master/0518-coin-change-ii) |
@@ -70,6 +71,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ritik0824/Leetcode/tree/master/0075-sort-colors) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
@@ -92,4 +94,5 @@ I have uploaded all the solutions of the questions i have done on leetcode
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ritik0824/Leetcode/tree/master/0075-sort-colors) |
 | [0647-palindromic-substrings](https://github.com/Ritik0824/Leetcode/tree/master/0647-palindromic-substrings) |
