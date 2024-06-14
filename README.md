@@ -14,6 +14,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Ritik0824/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ritik0824/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ritik0824/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1044-find-common-characters](https://github.com/Ritik0824/Leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
@@ -53,6 +54,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [0409-longest-palindrome](https://github.com/Ritik0824/Leetcode/tree/master/0409-longest-palindrome) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ritik0824/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritik0824/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -76,6 +78,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [0075-sort-colors](https://github.com/Ritik0824/Leetcode/tree/master/0075-sort-colors) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ritik0824/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritik0824/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
@@ -93,6 +96,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ritik0824/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
 # Two Pointers
 |  |
