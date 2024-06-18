@@ -13,6 +13,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [0523-continuous-subarray-sum](https://github.com/Ritik0824/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Ritik0824/Leetcode/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/Ritik0824/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Ritik0824/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ritik0824/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -53,6 +54,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [0055-jump-game](https://github.com/Ritik0824/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Ritik0824/Leetcode/tree/master/0409-longest-palindrome) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0853-most-profit-assigning-work](https://github.com/Ritik0824/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Ritik0824/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritik0824/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -77,6 +79,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | ------- |
 | [0075-sort-colors](https://github.com/Ritik0824/Leetcode/tree/master/0075-sort-colors) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ritik0824/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0853-most-profit-assigning-work](https://github.com/Ritik0824/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Ritik0824/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
@@ -103,3 +106,8 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | ------- |
 | [0075-sort-colors](https://github.com/Ritik0824/Leetcode/tree/master/0075-sort-colors) |
 | [0647-palindromic-substrings](https://github.com/Ritik0824/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0853-most-profit-assigning-work](https://github.com/Ritik0824/Leetcode/tree/master/0853-most-profit-assigning-work) |
+# Binary Search
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/Ritik0824/Leetcode/tree/master/0853-most-profit-assigning-work) |
