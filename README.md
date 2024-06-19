@@ -20,6 +20,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [1044-find-common-characters](https://github.com/Ritik0824/Leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ritik0824/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritik0824/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritik0824/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Ritik0824/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 # Depth-First Search
@@ -111,3 +112,4 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/Ritik0824/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritik0824/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
