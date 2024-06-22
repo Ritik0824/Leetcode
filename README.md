@@ -21,6 +21,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [1137-height-checker](https://github.com/Ritik0824/Leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ritik0824/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ritik0824/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ritik0824/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritik0824/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ritik0824/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ritik0824/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -70,6 +71,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 | [0876-hand-of-straights](https://github.com/Ritik0824/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Ritik0824/Leetcode/tree/master/1044-find-common-characters) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ritik0824/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ritik0824/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Ritik0824/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ritik0824/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -121,3 +124,4 @@ I have uploaded all the solutions of the questions i have done on leetcode
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Ritik0824/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ritik0824/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
